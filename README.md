@@ -23,12 +23,14 @@ Use the package manager #pip to install all these module.
 * Based on the polarity score, tweets were categorized as positive, negative or neutral. 
 
 
-## Module used for 
+## Module and Function used for 
 We are using different types of module for different types of work. 
 
 * Used pandas for data read and data preprocessing.
-* Used regular expression, beautifulsoup for data cleaning.
-* 
+* Used regular expression, beautifulsoup and nltk for data cleaning.
+* Using FreqDist function for frequency distribution.
+* Using WordNetLemmatizer for normalize the text.
+* We use SentimentIntensityAnalyzer for calculates the text sentiment and gives us different results like, Positive, Negative, Neutral.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

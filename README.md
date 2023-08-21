@@ -3,6 +3,7 @@ Sentiment analysis is a NLP or Natural Language Processing technique used to det
 It is often extracted from text data.
 The objective was to gain insights into people's opinions and emotions and visualize these sentiments through meaningful visualizations.
 
+![Sentiment Analysis](https://github.com/ShakilM26/Twitter-Sentiment-Analysis/assets/101876451/cf024ebb-e3ce-430f-9052-8bee0b74fe83)
 
 ## Installation
 

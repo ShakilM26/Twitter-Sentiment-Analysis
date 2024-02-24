@@ -26,7 +26,7 @@ Use the package manager #pip to install all these module.
 
 ## Module and Function used for
 * Data collection and manipulation using Pandas.
-* Text data cleaning with regular expressions and Beautiful Soup.
+* Text data cleaning with regular expressions.
 * Sentiment analysis using NLP techniques.
 * Data visualization using Seaborn and Matplotlib.
 
@@ -37,9 +37,8 @@ We are using different types of module for different types of work.
 
 * Read data and data preprocessing.
 * Clean the data through various library.
-* Finding frequency distribution.
 * Normalize the text data.
-* Use SentimentIntensityAnalyzer for calculates the text sentiment and gives us different results like, Positive, Negative, Neutral.
+* Use Textblob for calculates the text sentiment and gives us different results like, Positive, Negative, Neutral.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
